@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo pacman --noconfirm --needed -S archiso wget
+sudo pacman --noconfirm --needed -S archiso wget grub efibootmgr
